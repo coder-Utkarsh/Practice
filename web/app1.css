@@ -1,0 +1,36 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 5px;
+    background-color: palegreen;
+}
+h1{
+    color: #523;
+    background-color: burlywood;
+    letter-spacing: 10px;
+    text-decoration: blue line-through wavy;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    color: cadetblue;
+    background-color: oldlace;
+}
+footer > ul{
+    color: red;
+}
+header{
+    background-color: rgb(202, 204, 74);
+}
+main+section{
+    line-height: 2;
+}
+#sec{
+    line-height: 1.5;
+}
+li{
+    background-color: peachpuff;
+}
+li > ul{
+    background-color: plum;
+}
